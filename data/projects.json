@@ -1,0 +1,50 @@
+[
+  {
+    "title": "eMarkira - Chat GPT Personalizado",
+    "desc": "Mini chat GPT personalizado con contexto automático y rol de asesor de ventas. Interfaz moderna con localStorage para guardar conversaciones.",
+    "tags": [
+      "JavaScript",
+      "AI",
+      "Chat"
+    ],
+    "demoUrl": "https://emarkira.vercel.app/",
+    "repoUrl": "#",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "title": "Imperium - Plataforma de Alianzas",
+    "desc": "Plataforma web para alianzas estratégicas empresariales. Incluye servicios de consultoría, branding y capacitaciones con diseño profesional.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demoUrl": "https://imperium-umber.vercel.app/",
+    "repoUrl": "#",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "title": "Sistema de Gestión Académica",
+    "desc": "Aplicación web para gestión de estudiantes, materias y calificaciones desarrollada con React y Node.js.",
+    "tags": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "demoUrl": "#",
+    "repoUrl": "#",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "title": "E-commerce Responsive",
+    "desc": "Tienda online moderna con carrito de compras, pagos y panel de administración.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demoUrl": "#",
+    "repoUrl": "#",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop"
+  }
+]

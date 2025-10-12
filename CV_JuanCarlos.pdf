@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 200
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(JUAN CARLOS - CURRICULUM VITAE) Tj
+0 -20 Td
+(Estudiante de 2do curso - Universidad Americana) Tj
+0 -20 Td
+(Freelancer en Desarrollo Web) Tj
+0 -40 Td
+(CONTACTO:) Tj
+0 -15 Td
+(Email: juan.carlos@universidadamericana.edu.py) Tj
+0 -15 Td
+(WhatsApp: +595 XX XXX XXX) Tj
+0 -40 Td
+(EDUCACION:) Tj
+0 -15 Td
+(Universidad Americana - 2do curso) Tj
+0 -40 Td
+(HABILIDADES:) Tj
+0 -15 Td
+(HTML, CSS, JavaScript, React, Node.js, Python) Tj
+0 -15 Td
+(MySQL, MongoDB, Git, VS Code) Tj
+0 -40 Td
+(PROYECTOS:) Tj
+0 -15 Td
+(- Sistema de Gestion Academica) Tj
+0 -15 Td
+(- E-commerce Responsive) Tj
+0 -15 Td
+(- App de Tareas Universitarias) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000525 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+600
+%%EOF
